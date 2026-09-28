@@ -10,3 +10,7 @@ At first I honestly thought git add and git commit basically did the same thing,
 The git commit, on the other hand, is the actual saving part. After I've staged my files with git add, git commit locks those changes in for good as a new version, plus I get to add a short message saying what I changed. So every commit becomes like a snapshot of my project at that point in time, and I can go back and check it later using git log.
 
 Basically, git add is like putting your things in a box, and git commit is like sealing that box and writing a label on it so you know what's inside.
+
+
+This part of the readme file was created in Gitworkshop activity 2 .
+It demonstrates basic Git version control and GitHub repository management.
